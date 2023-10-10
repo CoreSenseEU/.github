@@ -2,6 +2,6 @@
 
 Welcome to the CoreSense Project Github organization!
 
-![CoreSense_main](https://user-images.githubusercontent.com/3810011/198338665-d4e47e50-9289-4a90-9444-8946db312dba.png)
-
 See documentation at [GitHub Pages](http://coresenseeu.github.io).
+
+![EU_funded_en](https://github.com/CoreSenseEU/.github/assets/2526542/83370b47-e070-4308-9054-abc29c46b510)
